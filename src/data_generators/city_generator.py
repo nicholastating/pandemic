@@ -1,5 +1,5 @@
-from entities.city import City
-from entities.virus import Virus
+from src.enums.city import City
+from src.enums.virus import Virus
 from typing import List
 from dataclasses import dataclass
 

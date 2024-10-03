@@ -21,3 +21,5 @@ The Medic removes _all_ cubes, not 1, of the same color when doing the Treat Dis
 If a disease has been cured, he automatically removes all cubes of that color from a city, simply by entering it or being there. This does not take an action.
 
 Note: The Medic's automatic removal of cubes can occur on other players' turns, if they are moved by the Dispatcher or the Airlift Event.
+
+The Medic also prevents placing disease cubes (and outbreaks) of cured diseases in their location.

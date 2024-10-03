@@ -23,3 +23,11 @@ If a disease has been cured, he automatically removes all cubes of that color fr
 Note: The Medic's automatic removal of cubes can occur on other players' turns, if they are moved by the Dispatcher or the Airlift Event.
 
 The Medic also prevents placing disease cubes (and outbreaks) of cured diseases in their location.
+
+## Operations Expert
+
+The Operations Expert may, as an action, either:
+- build a research station in his current city, without discarding (or using) a City card, or
+- once per turn, move from a research station to any city by discarding any City card.
+
+Note: The Dispatcher may not use the Operation Expert's special move ability when moving the Operation Expert's pawn.

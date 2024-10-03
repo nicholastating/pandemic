@@ -13,3 +13,11 @@ The Dispatcher may, as an action, either:
 Note: When moving a player's pawn as if it were your own, discard cards for Direct and Charter Flights from _your_ hand. A card discarded for a Charter flight must match the city the pawn is moving from.
 
 The Dispatcher can only _move_ other players' pawns; they may not direct them to do other actions, such as Treat Disease.
+
+## Medic
+
+The Medic removes _all_ cubes, not 1, of the same color when doing the Treat Disease action.
+
+If a disease has been cured, he automatically removes all cubes of that color from a city, simply by entering it or being there. This does not take an action.
+
+Note: The Medic's automatic removal of cubes can occur on other players' turns, if they are moved by the Dispatcher or the Airlift Event.

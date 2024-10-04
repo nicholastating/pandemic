@@ -31,3 +31,7 @@ The Operations Expert may, as an action, either:
 - once per turn, move from a research station to any city by discarding any City card.
 
 Note: The Dispatcher may not use the Operation Expert's special move ability when moving the Operation Expert's pawn.
+
+## Quarantine Specialist
+
+The Quarantine Specialist prevents both outbreaks and the placement of disease cubes in the city they are in _and_ all cities connected to that city. They do not affect cubes placed during setup.

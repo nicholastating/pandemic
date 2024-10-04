@@ -35,3 +35,7 @@ Note: The Dispatcher may not use the Operation Expert's special move ability whe
 ## Quarantine Specialist
 
 The Quarantine Specialist prevents both outbreaks and the placement of disease cubes in the city they are in _and_ all cities connected to that city. They do not affect cubes placed during setup.
+
+## Researcher
+
+When doing the Share Knowledge action, the Researcher may give any City card from their hand to another plater in the same city as them, without this card having to match their city. The transfer must be from their hand to the other player's hand, but it can occur on either player's turn.

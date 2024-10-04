@@ -39,3 +39,7 @@ The Quarantine Specialist prevents both outbreaks and the placement of disease c
 ## Researcher
 
 When doing the Share Knowledge action, the Researcher may give any City card from their hand to another plater in the same city as them, without this card having to match their city. The transfer must be from their hand to the other player's hand, but it can occur on either player's turn.
+
+## Scientist
+
+The Scientist needs only 4 (not 5) City cards of the same disease color to Discover a Cure for that disease.

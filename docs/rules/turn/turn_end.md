@@ -1,0 +1,1 @@
+After infecting cities and discarding Infection cards, your turn is over. The player on your left beings a turn.

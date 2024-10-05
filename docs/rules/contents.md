@@ -1,4 +1,5 @@
-Contents for the physical game:
+# Contents
+(for the physical game)
 - 7 Role Cards
 - 7 Pawns
 - 59 Player Cards (48 City Cards, 6 Epidemic Cards, 5 Event Cards)
